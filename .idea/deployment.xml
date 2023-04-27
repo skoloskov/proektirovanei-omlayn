@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="проектирование.онлайн" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="dalsclinic.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dev.jurist-arbitr.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="dev.tehlog4.ru ">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jurist-arbitr.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="jurist-arbitr.ru (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="lotsfish.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="olgashishova.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="olgashishova_ftp">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="template-base.loc">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zaboripodkluch.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zaboripodkluch.tehlog4">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zs77.ru">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="проектирование.онлайн">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www" local="$PROJECT_DIR$" web="проектирование.онлайн" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/www/.tmb" />
+            <excludedPath path="/www/wp-admin" />
+            <excludedPath path="/www/wp-includes" />
+            <excludedPath path="/www/wp-content/cache" />
+            <excludedPath path="/www/wp-content/uploads" />
+            <excludedPath local="true" path="$PROJECT_DIR$/.tmb" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-admin" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-includes" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/cache" />
+            <excludedPath local="true" path="$PROJECT_DIR$/wp-content/uploads" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
